@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 new doc with stashing example
+=======
+
+new doc new changes in branch b1
+
+new doc in branch:b1
+
+>>>>>>> 3c2033b1b4bdf8fc921bfe6b835c7011db0ffbd4
